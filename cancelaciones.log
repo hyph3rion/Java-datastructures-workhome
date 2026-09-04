@@ -1,0 +1,15 @@
+[2026-09-03 07:59:27] CANCELACIÓN DE CONSULTA
+  Código Cita: CITA-N1
+  Consultorio: Sede Prueba (NIT: 112233)
+  Paciente: Carlos Normal (CC: 1001)
+  JUSTIFICACIÓN: Paciente avisa con 2 horas de anticipacion por viaje no programado
+--------------------------------------------------------------------------------
+
+[2026-09-04 12:27:12] CANCELACIÓN DE CONSULTA
+  Código Cita: CITA-001
+  Consultorio: Sede Central (NIT: 900123)
+  Paciente: Juan Perez (CC: 102030)
+  Teléfono: 3001234567
+  JUSTIFICACIÓN: No llegó
+--------------------------------------------------------------------------------
+
